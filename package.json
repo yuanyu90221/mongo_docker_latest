@@ -1,0 +1,18 @@
+{
+  "name": "mongo_docker_latest",
+  "version": "1.0.0",
+  "description": "## introduction",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node src/demo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.17"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
